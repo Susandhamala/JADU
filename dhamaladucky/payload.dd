@@ -52,7 +52,7 @@ ENTER
 DELAY 2000
 
 REM 🕵️‍♂️ STALKING @keedhacker – GATHERING INTEL
-STRING https://www.instagram.com/keedhacker/ 
+STRING https://github.com/Susandhamala
 ENTER
 DELAY 15000
 
@@ -61,6 +61,6 @@ CTRL t
 DELAY 500
 
 REM 👁️ VISITING SUSAN DHAMALA'S WEBSITE – FOR "RESEARCH"
-STRING https://www.youtube.com/@KeedHacker
+STRING http://susandhamala.com.np
 ENTER
 DELAY 15000
